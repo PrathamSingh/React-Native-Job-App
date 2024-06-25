@@ -1,3 +1,22 @@
+<div align="center">
+  <br />
+    <img src="https://github.com/PrathamSingh/React-Native-Job-App/assets/21358786/2664648f-c1b0-432a-9812-676671e9f4a6" banner height="350">
+  <br />
+
+<br />
+<br />
+
+  <div>
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
+    <img src="https://img.shields.io/badge/NativeWind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="nativewind" />
+  </div>
+
+  <h3 align="center">React Native Job Finder App</h3>
+
+  <br />
+</div>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
